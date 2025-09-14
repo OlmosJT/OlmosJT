@@ -74,6 +74,16 @@ Here's a snapshot of the tools and technologies I use. I'm always eager to learn
 
 ---
 
+### 🏆 My Certifications
+
+<div align="center">
+  <a href="https://hyperskill.org/certificates/9763d0d1-15e0-4401-8da7-56607eeb7c88.pdf" target="_blank" rel="noreferrer">
+    <img src="https://i.ibb.co/CBytF3j/Java-Certificate-Badge.png" alt="Hyperskill Introduction to Java Certificate" width="300"/>
+  </a>
+</div>
+
+---
+
 ### 📊 My GitHub Activity
 
 <div align="center">
