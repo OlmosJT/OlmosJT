@@ -11,11 +11,17 @@
 </div>
 
 <div align="center">
-  <a href="mailto:olmosjt20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  <a href="https://t.me/OlmosJT_work" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
+  </a>
+  <a href="tel:+998930082417">
+    <img src="https://img.shields.io/badge/Call-7360F2?style=for-the-badge&logo=viber&logoColor=white" alt="phone"/>
   </a>
   <a href="https://www.linkedin.com/in/olmosjt/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="mailto:olmosjt20@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
   <a href="https://leetcode.com/u/Olmos_JT/" target="_blank">
       <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode"/>
@@ -24,11 +30,18 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 From Network Engineer to Software Engineer
 
-> My journey into code wasn't a straight line—it was a deliberate pivot from **5G network engineering**, driven by a raw
-> passion to build. I traded a secure career for the craft of coding during the "Birth of AI," a decision that gave me a
-> unique perspective on solving real-world problems and an unwavering drive to learn every single day.
+<div style="border: 1px solid var(--color-border-default); border-radius: 8px; padding: 20px; background-color: var(--color-canvas-subtle);">
+    <p style="color: var(--color-fg-muted); font-size: 12px; line-height: 1.6;">
+        It was not a stumble but a choice. 
+        I stepped away from the certainties of 5G network engineering, leaving behind the comfort of a well-charted career. 
+        The world was shifting—the age of AI was breaking open — and I felt the pull to build, not just maintain. 
+        I turned to code. That decision reshaped me: from engineer of systems to craftsman of solutions, from guarding the present to creating the future. 
+        Each day since, I carry the same resolve—to learn relentlessly, to solve with purpose, and to build with the conviction that this pivot was never a risk, 
+        but a calling.
+    </p>
+</div>
 
 ---
 
