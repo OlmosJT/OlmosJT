@@ -1,3 +1,5 @@
+<div style="font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace;">
+
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhhOHp3ampnNHVyNG1tdXE5dGhzc3VpcG9leDd2ZTA2NGZxcmJyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4ztZcdm9Fi90vL4Zd/giphy.gif" width="100px" />
   <h1>
@@ -106,7 +108,7 @@ Here's a snapshot of the tools and technologies I use. I'm always eager to learn
         <div>
           <h3 style="margin-top: 0; margin-bottom: 10px; color: var(--color-fg-default);">Introduction to Java</h3>
           <img src="https://img.shields.io/badge/Provider-JetBrains%20Academy-000000?style=flat&logo=jetbrains&logoColor=white" alt="Provider: JetBrains Academy" />
-          <p style="color: var(--color-fg-muted); font-size: 10px; margin-top: 10px; margin-bottom: 0; font-family: 'JetBrains Mono Medium', monospace;">
+          <p style="color: var(--color-fg-muted); font-size: 12px; margin-top: 10px; margin-bottom: 0;">
             Gained a practical mastery of Java fundamentals by translating theory into code, successfully architecting and building 6 hands-on projects from scratch.
           </p>
         </div>
@@ -120,7 +122,7 @@ Here's a snapshot of the tools and technologies I use. I'm always eager to learn
         <div>
           <h3 style="margin-top: 0; margin-bottom: 10px; color: var(--color-fg-default);">Introduction to Spring Boot with Java</h3>
           <img src="https://img.shields.io/badge/Provider-JetBrains%20Academy-000000?style=flat&logo=jetbrains&logoColor=white" alt="Provider: JetBrains Academy" />
-          <p style="color: var(--color-fg-muted); font-size: 10px; margin-top: 10px; margin-bottom: 0; font-family: 'JetBrains Mono Medium', monospace;">
+          <p style="color: var(--color-fg-muted); font-size: 12px; margin-top: 10px; margin-bottom: 0;">
             This core Java expertise provided the perfect launchpad for my next step: developing robust, enterprise-grade applications with Spring Boot.
           </p>
         </div>
@@ -131,7 +133,6 @@ Here's a snapshot of the tools and technologies I use. I'm always eager to learn
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -144,5 +145,4 @@ Here's a snapshot of the tools and technologies I use. I'm always eager to learn
   </a>
 </div>
 
----
-
+</div>
