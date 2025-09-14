@@ -8,11 +8,25 @@
   </h3>
 </div>
 
+<div align="center">
+  <a href="mailto:olmosjt20@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/olmosjt/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://leetcode.com/u/Olmos_JT/" target="_blank">
+      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode"/>
+  </a>
+</div>
+
 ---
 
 ### 👨‍💻 About Me
 
-> My journey into code wasn't a straight line—it was a deliberate pivot from **5G network engineering**, driven by a raw passion to build. I traded a secure career for the craft of coding during the "Birth of AI," a decision that gave me a unique perspective on solving real-world problems and an unwavering drive to learn every single day.
+> My journey into code wasn't a straight line—it was a deliberate pivot from **5G network engineering**, driven by a raw
+> passion to build. I traded a secure career for the craft of coding during the "Birth of AI," a decision that gave me a
+> unique perspective on solving real-world problems and an unwavering drive to learn every single day.
 
 ---
 
@@ -27,6 +41,9 @@ Here's a snapshot of the tools and technologies I use. I'm always eager to learn
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
   </a>
 </p>
 
@@ -54,6 +71,9 @@ Here's a snapshot of the tools and technologies I use. I'm always eager to learn
    <a href="https://temporal.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white" alt="temporal"/>
   </a>
+  <a href="https://camunda.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Camunda-26d07c?style=for-the-badge&logo=camunda&logoColor=white" alt="camunda"/>
+  </a>
 </p>
 
 **Tools & Platforms:**
@@ -70,17 +90,33 @@ Here's a snapshot of the tools and technologies I use. I'm always eager to learn
   <a href="https://gradle.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="gradle"/>
   </a>
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="maven"/> 
+  </a>
 </p>
 
 ---
 
 ### 🏆 My Certifications
 
-<div align="center">
-<a href="https://hyperskill.org/certificates/9763d0d1-15e0-4401-8da7-56607eeb7c88.pdf" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/JetBrains%20Academy-Introduction%20to%20Java-000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Introduction to Java Certificate"/>
-</a>
-</div>
+<table align="center">
+<tr>
+
+<td align="center" width="300">
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; border: 1px solid var(--color-border-default); border-radius: 8px; padding: 16px; background-color: var(--color-canvas-subtle);">
+    <div>
+      <h3 style="margin-top: 0; margin-bottom: 10px; color: var(--color-fg-default);">Introduction to Java</h3>
+      <img src="https://img.shields.io/badge/Provider-JetBrains%20Academy-000000?style=flat&logo=jetbrains&logoColor=white" alt="Provider: JetBrains Academy" />
+      <p style="color: var(--color-fg-muted); font-size: 14px; margin-top: 10px; margin-bottom: 0;">Completed 6 projects and 84 topics to master the fundamentals of Java programming.</p>
+    </div>
+    <a href="https://hyperskill.org/certificates/9763d0d1-15e0-4401-8da7-56607eeb7c88.pdf" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/View%20Certificate-%E2%86%92-38bdae?style=for-the-badge" alt="View Certificate"/>
+    </a>
+  </div>
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -95,16 +131,3 @@ Here's a snapshot of the tools and technologies I use. I'm always eager to learn
 
 ---
 
-### 📬 Get In Touch
-
-<div align="center">
-  <a href="mailto:olmosjt20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/olmosjt/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="https://leetcode.com/u/Olmos_JT/" target="_blank">
-      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode"/>
-  </a>
-</div>
