@@ -33,7 +33,7 @@
 ### 👨‍💻 From Network Engineer to Software Engineer
 
 <div style="border: 1px solid var(--color-border-default); border-radius: 8px; padding: 20px; background-color: var(--color-canvas-subtle);">
-    <p style="color: var(--color-fg-muted); font-size: 12px; line-height: 1.6;">
+    <p style="color: var(--color-fg-muted); font-size: 10px; line-height: 1.6;">
         It was not a stumble but a choice. 
         I stepped away from the certainties of 5G network engineering, leaving behind the comfort of a well-charted career. 
         The world was shifting—the age of AI was breaking open — and I felt the pull to build, not just maintain. 
