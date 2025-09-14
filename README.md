@@ -1,13 +1,13 @@
-<div style="font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace;">
+<div style="font-family: 'JetBrains Mono', 'Courier New', monospace;">
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhhOHp3ampnNHVyNG1tdXE5dGhzc3VpcG9leDd2ZTA2NGZxcmJyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4ztZcdm9Fi90vL4Zd/giphy.gif" width="100px" />
-  <h1>
+  <h1 style="font-family: monospace; font-size: 10px">
     Hi there, I'm Olmos JT 👋
   </h1>
-  <h3>
+  <p>
     An architect of mission-critical systems, perpetually balancing the elegance of code against the ever-present threat of catastrophic, systemic failure.
-  </h3>
+  </p>
 </div>
 
 <div align="center">
