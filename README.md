@@ -100,23 +100,38 @@ Here's a snapshot of the tools and technologies I use. I'm always eager to learn
 ### 🏆 My Certifications
 
 <table align="center">
-<tr>
-
-<td align="center" width="300">
-  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; border: 1px solid var(--color-border-default); border-radius: 8px; padding: 16px; background-color: var(--color-canvas-subtle);">
-    <div>
-      <h3 style="margin-top: 0; margin-bottom: 10px; color: var(--color-fg-default);">Introduction to Java</h3>
-      <img src="https://img.shields.io/badge/Provider-JetBrains%20Academy-000000?style=flat&logo=jetbrains&logoColor=white" alt="Provider: JetBrains Academy" />
-      <p style="color: var(--color-fg-muted); font-size: 14px; margin-top: 10px; margin-bottom: 0;">Completed 6 projects and 84 topics to master the fundamentals of Java programming.</p>
-    </div>
-    <a href="https://hyperskill.org/certificates/9763d0d1-15e0-4401-8da7-56607eeb7c88.pdf" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/View%20Certificate-%E2%86%92-38bdae?style=for-the-badge" alt="View Certificate"/>
-    </a>
-  </div>
-</td>
-
-</tr>
+  <tr>
+    <td align="center" width="300">
+      <div style="display: flex; flex-direction: column; align-items: center; text-align: center; gap: 12px; border: 1px solid var(--color-border-default); border-radius: 8px; padding: 16px; background-color: var(--color-canvas-subtle);">
+        <div>
+          <h3 style="margin-top: 0; margin-bottom: 10px; color: var(--color-fg-default);">Introduction to Java</h3>
+          <img src="https://img.shields.io/badge/Provider-JetBrains%20Academy-000000?style=flat&logo=jetbrains&logoColor=white" alt="Provider: JetBrains Academy" />
+          <p style="color: var(--color-fg-muted); font-size: 10px; margin-top: 10px; margin-bottom: 0; font-family: 'JetBrains Mono Medium', monospace;">
+            Gained a practical mastery of Java fundamentals by translating theory into code, successfully architecting and building 6 hands-on projects from scratch.
+          </p>
+        </div>
+        <a href="https://hyperskill.org/certificates/9763d0d1-15e0-4401-8da7-56607eeb7c88.pdf" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/View%20Certificate-%E2%86%92-38bdae?style=for-the-badge" alt="View Certificate"/>
+        </a>
+      </div>
+    </td>
+    <td align="center" width="300">
+      <div style="display: flex; flex-direction: column; align-items: center; text-align: center; gap: 12px; border: 1px solid var(--color-border-default); border-radius: 8px; padding: 16px; background-color: var(--color-canvas-subtle);">
+        <div>
+          <h3 style="margin-top: 0; margin-bottom: 10px; color: var(--color-fg-default);">Introduction to Spring Boot with Java</h3>
+          <img src="https://img.shields.io/badge/Provider-JetBrains%20Academy-000000?style=flat&logo=jetbrains&logoColor=white" alt="Provider: JetBrains Academy" />
+          <p style="color: var(--color-fg-muted); font-size: 10px; margin-top: 10px; margin-bottom: 0; font-family: 'JetBrains Mono Medium', monospace;">
+            This core Java expertise provided the perfect launchpad for my next step: developing robust, enterprise-grade applications with Spring Boot.
+          </p>
+        </div>
+        <a href="https://hyperskill.org/certificates/3466a4c8-ed73-4ccb-a504-c29fb131da5b.pdf" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/View%20Certificate-%E2%86%92-38bdae?style=for-the-badge" alt="View Certificate"/>
+        </a>
+      </div>
+    </td>
+  </tr>
 </table>
+
 
 ---
 
