@@ -3,10 +3,10 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhhOHp3ampnNHVyNG1tdXE5dGhzc3VpcG9leDd2ZTA2NGZxcmJyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4ztZcdm9Fi90vL4Zd/giphy.gif" width="100px" />
   <h1>
-    Hi there, I'm Olmos (OlmosJT) 👋
+    Hi there, I'm Olmos JT 👋
   </h1>
   <h3>
-    A Software Engineer who loves turning complex problems into elegant code.
+    An architect of mission-critical systems, perpetually balancing the elegance of code against the ever-present threat of catastrophic, systemic failure.
   </h3>
 </div>
 
@@ -35,8 +35,8 @@
 <div style="border: 1px solid var(--color-border-default); border-radius: 8px; padding: 20px; background-color: var(--color-canvas-subtle);">
     <p style="color: var(--color-fg-muted); font-size: 10px; line-height: 1.6;">
         It was not a stumble but a choice. 
-        I stepped away from the certainties of 5G network engineering, leaving behind the comfort of a well-charted career. 
-        The world was shifting—the age of AI was breaking open — and I felt the pull to build, not just maintain. 
+        I stepped away from the certainties of PS Core Network Engineering, leaving behind the comfort of a well-charted career. 
+        The world was shifting — the age of AI was breaking open — and I felt the pull to build, not just maintain. 
         I turned to code. That decision reshaped me: from engineer of systems to craftsman of solutions, from guarding the present to creating the future. 
         Each day since, I carry the same resolve—to learn relentlessly, to solve with purpose, and to build with the conviction that this pivot was never a risk, 
         but a calling.
