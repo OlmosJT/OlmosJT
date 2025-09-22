@@ -143,6 +143,19 @@ Here's a snapshot of the tools and technologies I use. I'm always eager to learn
 
   <div style="flex: 0 0 300px; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 12px; border: 1px solid var(--color-border-default); border-radius: 8px; padding: 16px; background-color: var(--color-canvas-subtle);">
     <div>
+      <h3 style="margin-top: 0; margin-bottom: 10px; color: var(--color-fg-default);">Advanced Java</h3>
+      <img src="https://img.shields.io/badge/Provider-JetBrains%20Academy-000000?style=flat&logo=jetbrains&logoColor=white" alt="Provider: JetBrains Academy" />
+      <p style="color: var(--color-fg-muted); font-size: 12px; margin-top: 10px; margin-bottom: 0;">
+        Unlock the secrets of Java's low-level mechanisms. Gain practical insights into fault tolerance, high loading, and rare Java features to successfully tackle non-trivial tasks.
+      </p>
+    </div>
+    <a href="https://hyperskill.org/certificates/7d4e4d07-2879-4735-8fd0-b6d973c55602.pdf" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/View%20Certificate-%E2%86%92-38bdae?style=for-the-badge" alt="View Certificate"/>
+    </a>
+  </div>
+
+  <div style="flex: 0 0 300px; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 12px; border: 1px solid var(--color-border-default); border-radius: 8px; padding: 16px; background-color: var(--color-canvas-subtle);">
+    <div>
       <h3 style="margin-top: 0; margin-bottom: 10px; color: var(--color-fg-default);">Introduction to Spring Boot with Java</h3>
       <img src="https://img.shields.io/badge/Provider-JetBrains%20Academy-000000?style=flat&logo=jetbrains&logoColor=white" alt="Provider: JetBrains Academy" />
       <p style="color: var(--color-fg-muted); font-size: 12px; margin-top: 10px; margin-bottom: 0;">
