@@ -115,7 +115,7 @@ Here's a snapshot of the tools and technologies I use. I'm always eager to learn
 ### 🏆 My Certifications
 
 <table align="center">
-  <tr>
+  <tr>  
     <td align="center" width="300">
       <div style="display: flex; flex-direction: column; align-items: center; text-align: center; gap: 12px; border: 1px solid var(--color-border-default); border-radius: 8px; padding: 16px; background-color: var(--color-canvas-subtle);">
         <div>
@@ -126,6 +126,20 @@ Here's a snapshot of the tools and technologies I use. I'm always eager to learn
           </p>
         </div>
         <a href="https://hyperskill.org/certificates/9763d0d1-15e0-4401-8da7-56607eeb7c88.pdf" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/View%20Certificate-%E2%86%92-38bdae?style=for-the-badge" alt="View Certificate"/>
+        </a>
+      </div>
+    </td>
+    <td align="center" width="300">
+      <div style="display: flex; flex-direction: column; align-items: center; text-align: center; gap: 12px; border: 1px solid var(--color-border-default); border-radius: 8px; padding: 16px; background-color: var(--color-canvas-subtle);">
+        <div>
+          <h3 style="margin-top: 0; margin-bottom: 10px; color: var(--color-fg-default);">Java Developer</h3>
+          <img src="https://img.shields.io/badge/Provider-JetBrains%20Academy-000000?style=flat&logo=jetbrains&logoColor=white" alt="Provider: JetBrains Academy" />
+          <p style="color: var(--color-fg-muted); font-size: 12px; margin-top: 10px; margin-bottom: 0;">
+            Learn essential development skills, from basic syntax to advanced features. Build a solid foundation to master any framework you need. Learn to use AI to code faster.
+          </p>
+        </div>
+        <a href="https://hyperskill.org/certificates/a2a6ce51-1a85-4121-a8ed-bb67fce66eeb.pdf" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/View%20Certificate-%E2%86%92-38bdae?style=for-the-badge" alt="View Certificate"/>
         </a>
       </div>
