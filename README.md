@@ -114,59 +114,68 @@ Here's a snapshot of the tools and technologies I use. I'm always eager to learn
 
 ### 🏆 My Certifications
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 16px;">
-  <div style="flex: 0 0 300px; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 12px; border: 1px solid var(--color-border-default); border-radius: 8px; padding: 16px; background-color: var(--color-canvas-subtle);">
-    <div>
-      <h3 style="margin-top: 0; margin-bottom: 10px; color: var(--color-fg-default);">Introduction to Java</h3>
-      <img src="https://img.shields.io/badge/Provider-JetBrains%20Academy-000000?style=flat&logo=jetbrains&logoColor=white" alt="Provider: JetBrains Academy" />
-      <p style="color: var(--color-fg-muted); font-size: 12px; margin-top: 10px; margin-bottom: 0;">
-        Understand the language behind millions of apps. Grasp core concepts, write basic programs, and make your first step toward breaking into tech.
-      </p>
-    </div>
-    <a href="https://hyperskill.org/certificates/9763d0d1-15e0-4401-8da7-56607eeb7c88.pdf" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/View%20Certificate-%E2%86%92-38bdae?style=for-the-badge" alt="View Certificate"/>
-    </a>
-  </div>
-
-  <div style="flex: 0 0 300px; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 12px; border: 1px solid var(--color-border-default); border-radius: 8px; padding: 16px; background-color: var(--color-canvas-subtle);">
-    <div>
-      <h3 style="margin-top: 0; margin-bottom: 10px; color: var(--color-fg-default);">Java Developer</h3>
-      <img src="https://img.shields.io/badge/Provider-JetBrains%20Academy-000000?style=flat&logo=jetbrains&logoColor=white" alt="Provider: JetBrains Academy" />
-      <p style="color: var(--color-fg-muted); font-size: 12px; margin-top: 10px; margin-bottom: 0;">
-        Learn essential development skills, from basic syntax to advanced features. Build a solid foundation to master any framework you need. Learn to use AI to code faster.
-      </p>
-    </div>
-    <a href="https://hyperskill.org/certificates/a2a6ce51-1a85-4121-a8ed-bb67fce66eeb.pdf" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/View%20Certificate-%E2%86%92-38bdae?style=for-the-badge" alt="View Certificate"/>
-    </a>
-  </div>
-
-  <div style="flex: 0 0 300px; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 12px; border: 1px solid var(--color-border-default); border-radius: 8px; padding: 16px; background-color: var(--color-canvas-subtle);">
-    <div>
-      <h3 style="margin-top: 0; margin-bottom: 10px; color: var(--color-fg-default);">Advanced Java</h3>
-      <img src="https://img.shields.io/badge/Provider-JetBrains%20Academy-000000?style=flat&logo=jetbrains&logoColor=white" alt="Provider: JetBrains Academy" />
-      <p style="color: var(--color-fg-muted); font-size: 12px; margin-top: 10px; margin-bottom: 0;">
-        Unlock the secrets of Java's low-level mechanisms. Gain practical insights into fault tolerance, high loading, and rare Java features to successfully tackle non-trivial tasks.
-      </p>
-    </div>
-    <a href="https://hyperskill.org/certificates/7d4e4d07-2879-4735-8fd0-b6d973c55602.pdf" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/View%20Certificate-%E2%86%92-38bdae?style=for-the-badge" alt="View Certificate"/>
-    </a>
-  </div>
-
-  <div style="flex: 0 0 300px; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 12px; border: 1px solid var(--color-border-default); border-radius: 8px; padding: 16px; background-color: var(--color-canvas-subtle);">
-    <div>
-      <h3 style="margin-top: 0; margin-bottom: 10px; color: var(--color-fg-default);">Introduction to Spring Boot with Java</h3>
-      <img src="https://img.shields.io/badge/Provider-JetBrains%20Academy-000000?style=flat&logo=jetbrains&logoColor=white" alt="Provider: JetBrains Academy" />
-      <p style="color: var(--color-fg-muted); font-size: 12px; margin-top: 10px; margin-bottom: 0;">
-        Get ready to improve your web development skills with Spring Boot! This course offers an immersive introduction to the popular framework and includes the necessary materials on Java.
-      </p>
-    </div>
-    <a href="https://hyperskill.org/certificates/3466a4c8-ed73-4ccb-a504-c29fb131da5b.pdf" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/View%20Certificate-%E2%86%92-38bdae?style=for-the-badge" alt="View Certificate"/>
-    </a>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <div style="max-width: 300px; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 12px; border: 1px solid var(--color-border-default); border-radius: 8px; padding: 16px; background-color: var(--color-canvas-subtle);">
+        <div>
+          <h3 style="margin-top: 0; margin-bottom: 10px; color: var(--color-fg-default);">Introduction to Java</h3>
+          <img src="https://img.shields.io/badge/Provider-JetBrains%20Academy-000000?style=flat&logo=jetbrains&logoColor=white" alt="Provider: JetBrains Academy" />
+          <p style="color: var(--color-fg-muted); font-size: 12px; margin-top: 10px; margin-bottom: 0;">
+            Understand the language behind millions of apps. Grasp core concepts, write basic programs, and make your first step toward breaking into tech.
+          </p>
+        </div>
+        <a href="https://hyperskill.org/certificates/9763d0d1-15e0-4401-8da7-56607eeb7c88.pdf" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/View%20Certificate-%E2%86%92-38bdae?style=for-the-badge" alt="View Certificate"/>
+        </a>
+      </div>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <div style="max-width: 300px; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 12px; border: 1px solid var(--color-border-default); border-radius: 8px; padding: 16px; background-color: var(--color-canvas-subtle);">
+        <div>
+          <h3 style="margin-top: 0; margin-bottom: 10px; color: var(--color-fg-default);">Java Developer</h3>
+          <img src="https://img.shields.io/badge/Provider-JetBrains%20Academy-000000?style=flat&logo=jetbrains&logoColor=white" alt="Provider: JetBrains Academy" />
+          <p style="color: var(--color-fg-muted); font-size: 12px; margin-top: 10px; margin-bottom: 0;">
+            Learn essential development skills, from basic syntax to advanced features. Build a solid foundation to master any framework you need.
+          </p>
+        </div>
+        <a href="https://hyperskill.org/certificates/a2a6ce51-1a85-4121-a8ed-bb67fce66eeb.pdf" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/View%20Certificate-%E2%86%92-38bdae?style=for-the-badge" alt="View Certificate"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <div style="max-width: 300px; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 12px; border: 1px solid var(--color-border-default); border-radius: 8px; padding: 16px; background-color: var(--color-canvas-subtle);">
+        <div>
+          <h3 style="margin-top: 0; margin-bottom: 10px; color: var(--color-fg-default);">Advanced Java</h3>
+          <img src="https://img.shields.io/badge/Provider-JetBrains%20Academy-000000?style=flat&logo=jetbrains&logoColor=white" alt="Provider: JetBrains Academy" />
+          <p style="color: var(--color-fg-muted); font-size: 12px; margin-top: 10px; margin-bottom: 0;">
+            Unlock the secrets of Java's low-level mechanisms. Gain practical insights into fault tolerance, high loading, and rare Java features.
+          </p>
+        </div>
+        <a href="https://hyperskill.org/certificates/7d4e4d07-2879-4735-8fd0-b6d973c55602.pdf" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/View%20Certificate-%E2%86%92-38bdae?style=for-the-badge" alt="View Certificate"/>
+        </a>
+      </div>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <div style="max-width: 300px; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 12px; border: 1px solid var(--color-border-default); border-radius: 8px; padding: 16px; background-color: var(--color-canvas-subtle);">
+        <div>
+          <h3 style="margin-top: 0; margin-bottom: 10px; color: var(--color-fg-default);">Introduction to Spring Boot</h3>
+          <img src="https://img.shields.io/badge/Provider-JetBrains%20Academy-000000?style=flat&logo=jetbrains&logoColor=white" alt="Provider: JetBrains Academy" />
+          <p style="color: var(--color-fg-muted); font-size: 12px; margin-top: 10px; margin-bottom: 0;">
+            Get ready to improve your web development skills with Spring Boot! This course offers an immersive introduction to the popular framework.
+          </p>
+        </div>
+        <a href="https://hyperskill.org/certificates/3466a4c8-ed73-4ccb-a504-c29fb131da5b.pdf" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/View%20Certificate-%E2%86%92-38bdae?style=for-the-badge" alt="View Certificate"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
